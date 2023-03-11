@@ -42,3 +42,10 @@ p {
   position: relative;
   top: -35px;
 }
+
+p {
+  text-align: center;
+  color: #70757a;
+  font-size: 12px;
+  line-height: 16px;
+}
